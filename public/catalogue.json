@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "aural-studio",
+    "name": "Studio Wireless Headphones",
+    "brand": "Aural",
+    "category": "Audio",
+    "price": 149,
+    "originalPrice": 199,
+    "rating": 4.8,
+    "reviewCount": 128,
+    "image": "/products/headphones-yellow.jpg",
+    "color": "#27272a",
+    "badge": "Bestseller",
+    "stock": 24,
+    "specs": {
+      "Battery": "30-hour battery",
+      "Connection": "Bluetooth 5.3",
+      "Noise control": "Active noise cancellation",
+      "Weight": "250 g"
+    },
+    "description": "Your everyday soundtrack, with a little less of the everyday noise. Soft over-ear cushions and an adjustable headband keep things comfortable from the first track to the last.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/headphones-yellow.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/headphones-yellow.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/headphones-yellow.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 149,
+        "stock": 24,
+        "color": "#27272a"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 159,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "forma-air",
+    "name": "Air 13 Laptop",
+    "brand": "Forma",
+    "category": "Laptops",
+    "price": 899,
+    "originalPrice": 1049,
+    "rating": 4.7,
+    "reviewCount": 86,
+    "image": "/products/laptop-silver.jpg",
+    "color": "#c7c8c8",
+    "badge": "Great value",
+    "stock": 12,
+    "specs": {
+      "Display": "13.3-inch display",
+      "Memory": "16 GB RAM",
+      "Storage": "512 GB SSD",
+      "Battery": "Up to 14 hours"
+    },
+    "description": "Light enough to take anywhere, capable enough to do a little of everything. A crisp display and all-day battery make this a thoughtful companion for work and downtime.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/laptop-silver.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/laptop-silver.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/laptop-silver.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "base-storage",
+        "label": "512 GB SSD",
+        "price": 899,
+        "stock": 12,
+        "color": "#c7c8c8"
+      },
+      {
+        "id": "more-storage",
+        "label": "1 TB SSD",
+        "price": 1049,
+        "stock": 4,
+        "color": "#c7c8c8",
+        "specs": {
+          "Storage": "1 TB SSD"
+        }
+      }
+    ]
+  },
+  {
+    "id": "moment-travel",
+    "name": "Travel Mirrorless Camera",
+    "brand": "Moment",
+    "category": "Cameras",
+    "price": 649,
+    "originalPrice": 749,
+    "rating": 4.9,
+    "reviewCount": 62,
+    "image": "/products/camera-black.jpg",
+    "color": "#2c2d2c",
+    "stock": 8,
+    "specs": {
+      "Sensor": "24 MP sensor",
+      "Video": "4K video",
+      "Lens": "35 mm lens",
+      "Weight": "410 g"
+    },
+    "description": "For the moments worth keeping. A compact mirrorless design puts intuitive controls and beautiful image quality within easy reach, wherever curiosity takes you.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/camera-black.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/camera-black.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/camera-black.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "camera",
+        "label": "Camera only",
+        "price": 649,
+        "stock": 8,
+        "color": "#2c2d2c"
+      },
+      {
+        "id": "creator-kit",
+        "label": "Camera + travel kit",
+        "price": 714,
+        "stock": 3,
+        "color": "#2c2d2c",
+        "specs": {
+          "Included": "Camera, spare battery, travel pouch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tempo-day",
+    "name": "Daylight Watch",
+    "brand": "Tempo",
+    "category": "Wearables",
+    "price": 89,
+    "originalPrice": 129,
+    "rating": 4.5,
+    "reviewCount": 94,
+    "image": "/products/watch-minimal.jpg",
+    "color": "#dfd8c7",
+    "badge": "Great value",
+    "stock": 31,
+    "specs": {
+      "Movement": "Quartz movement",
+      "Case": "40 mm case",
+      "Water resistance": "3 ATM",
+      "Strap": "Vegan leather"
+    },
+    "description": "Clean lines, quiet details, and a face that is easy to read. A simple watch designed to be the piece you reach for every morning.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/watch-minimal.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/watch-minimal.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/watch-minimal.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 89,
+        "stock": 31,
+        "color": "#dfd8c7"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 99,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aural-pods",
+    "name": "Pocket Wireless Earbuds",
+    "brand": "Aural",
+    "category": "Audio",
+    "price": 79,
+    "originalPrice": 99,
+    "rating": 4.6,
+    "reviewCount": 211,
+    "image": "/products/earbuds-white.jpg",
+    "color": "#ececeb",
+    "stock": 42,
+    "specs": {
+      "Battery": "24 hours with case",
+      "Connection": "Bluetooth 5.3",
+      "Water resistance": "IPX4 rated",
+      "Noise control": "Passive isolation"
+    },
+    "description": "Big sound, small footprint. These pocket-sized earbuds make commuting, concentrating, and catching up on your favourite podcasts feel effortless.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/earbuds-white.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/earbuds-white.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/earbuds-white.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 79,
+        "stock": 42,
+        "color": "#ececeb"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 89,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "key-mechanical",
+    "name": "Mechanical Keyboard",
+    "brand": "Key",
+    "category": "Accessories",
+    "price": 119,
+    "originalPrice": 149,
+    "rating": 4.8,
+    "reviewCount": 157,
+    "image": "/products/keyboard.jpg",
+    "color": "#28272b",
+    "badge": "Bestseller",
+    "stock": 18,
+    "specs": {
+      "Layout": "75% compact layout",
+      "Switches": "Tactile switches",
+      "Connection": "USB-C wired",
+      "Lighting": "Custom RGB lighting"
+    },
+    "description": "A satisfying place to put your thoughts. Tactile switches and a space-saving layout bring a little more intention to your desk.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/keyboard.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/keyboard.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/keyboard.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 119,
+        "stock": 18,
+        "color": "#28272b"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 129,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aural-pro",
+    "name": "Studio Pro Headphones",
+    "brand": "Aural",
+    "category": "Audio",
+    "price": 219,
+    "originalPrice": 279,
+    "rating": 4.9,
+    "reviewCount": 73,
+    "image": "/products/headphones-dark.jpg",
+    "color": "#222225",
+    "badge": "New arrival",
+    "stock": 14,
+    "specs": {
+      "Battery": "40-hour battery",
+      "Connection": "Bluetooth 5.4",
+      "Noise control": "Adaptive noise cancellation",
+      "Weight": "265 g"
+    },
+    "description": "Find your focus with spacious sound and adaptive noise cancellation. An upgraded battery and refined fit take the Studio experience a little further.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/headphones-dark.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/headphones-dark.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/headphones-dark.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 219,
+        "stock": 14,
+        "color": "#222225"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 229,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "forma-work",
+    "name": "Work 14 Laptop",
+    "brand": "Forma",
+    "category": "Laptops",
+    "price": 1099,
+    "originalPrice": 1299,
+    "rating": 4.6,
+    "reviewCount": 54,
+    "image": "/products/laptop-work.jpg",
+    "color": "#939597",
+    "stock": 9,
+    "specs": {
+      "Display": "14-inch display",
+      "Memory": "16 GB RAM",
+      "Storage": "1 TB SSD",
+      "Battery": "Up to 12 hours"
+    },
+    "description": "A versatile workspace that goes where you go. Plenty of room for your projects, a comfortable keyboard, and a sharp display help you get into your flow.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/laptop-work.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/laptop-work.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/laptop-work.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "base-storage",
+        "label": "1 TB SSD",
+        "price": 1099,
+        "stock": 9,
+        "color": "#939597"
+      },
+      {
+        "id": "more-storage",
+        "label": "2 TB SSD",
+        "price": 1249,
+        "stock": 4,
+        "color": "#939597",
+        "specs": {
+          "Storage": "2 TB SSD"
+        }
+      }
+    ]
+  },
+  {
+    "id": "key-mouse",
+    "name": "Precision Wireless Mouse",
+    "brand": "Key",
+    "category": "Accessories",
+    "price": 49,
+    "originalPrice": 69,
+    "rating": 4.4,
+    "reviewCount": 186,
+    "image": "/products/mouse.jpg",
+    "color": "#343237",
+    "stock": 37,
+    "specs": {
+      "Connection": "Bluetooth + USB",
+      "Sensor": "4,000 DPI sensor",
+      "Battery": "Up to 6 months",
+      "Weight": "95 g"
+    },
+    "description": "Small movements, smoother days. A comfortably shaped wireless mouse with precise tracking and easy switching between your devices.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/mouse.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/mouse.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/mouse.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 49,
+        "stock": 37,
+        "color": "#343237"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 59,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aural-home",
+    "name": "Home Bluetooth Speaker",
+    "brand": "Aural",
+    "category": "Audio",
+    "price": 99,
+    "originalPrice": 129,
+    "rating": 4.6,
+    "reviewCount": 103,
+    "image": "/products/speaker.jpg",
+    "color": "#484544",
+    "badge": "Great value",
+    "stock": 21,
+    "specs": {
+      "Battery": "12-hour battery",
+      "Connection": "Bluetooth 5.2",
+      "Water resistance": "IPX5 rated",
+      "Power": "20 W output"
+    },
+    "description": "Fill your space with the songs you love. A portable speaker with warm, room-filling sound and just enough battery for a very good afternoon.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/speaker.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/speaker.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/speaker.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 99,
+        "stock": 21,
+        "color": "#484544"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 109,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "tempo-active",
+    "name": "Active Smartwatch",
+    "brand": "Tempo",
+    "category": "Wearables",
+    "price": 179,
+    "originalPrice": 229,
+    "rating": 4.7,
+    "reviewCount": 148,
+    "image": "/products/watch-smart.jpg",
+    "color": "#222424",
+    "badge": "Bestseller",
+    "stock": 16,
+    "specs": {
+      "Display": "1.4-inch AMOLED",
+      "Battery": "Up to 7 days",
+      "Tracking": "Heart rate + activity",
+      "Water resistance": "5 ATM"
+    },
+    "description": "A little encouragement on your wrist. Track daily movement, keep an eye on your heart rate, and stay connected without reaching for your phone.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/watch-smart.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/watch-smart.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/watch-smart.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 179,
+        "stock": 16,
+        "color": "#222424"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 189,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "moment-compact",
+    "name": "Everyday Compact Camera",
+    "brand": "Moment",
+    "category": "Cameras",
+    "price": 329,
+    "originalPrice": 399,
+    "rating": 4.4,
+    "reviewCount": 47,
+    "image": "/products/camera-travel.jpg",
+    "color": "#242426",
+    "stock": 11,
+    "specs": {
+      "Sensor": "20 MP sensor",
+      "Video": "Full HD video",
+      "Lens": "24–70 mm zoom",
+      "Weight": "280 g"
+    },
+    "description": "Good days deserve good photos. This pocket-friendly camera combines a versatile zoom with straightforward controls so you can spend more time in the moment.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/camera-travel.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/camera-travel.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/camera-travel.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "camera",
+        "label": "Camera only",
+        "price": 329,
+        "stock": 11,
+        "color": "#242426"
+      },
+      {
+        "id": "creator-kit",
+        "label": "Camera + travel kit",
+        "price": 394,
+        "stock": 3,
+        "color": "#242426",
+        "specs": {
+          "Included": "Camera, spare battery, travel pouch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "forma-pro",
+    "name": "Pro 15 Laptop",
+    "brand": "Forma",
+    "category": "Laptops",
+    "price": 1499,
+    "originalPrice": 1699,
+    "rating": 4.8,
+    "reviewCount": 39,
+    "image": "/products/laptop-dark.jpg",
+    "color": "#25272b",
+    "badge": "New arrival",
+    "stock": 7,
+    "specs": {
+      "Display": "15.6-inch display",
+      "Memory": "32 GB RAM",
+      "Storage": "1 TB SSD",
+      "Battery": "Up to 10 hours"
+    },
+    "description": "More room for your biggest ideas. A generous display and extra memory make demanding creative projects feel at home.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/laptop-dark.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/laptop-dark.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/laptop-dark.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "base-storage",
+        "label": "1 TB SSD",
+        "price": 1499,
+        "stock": 7,
+        "color": "#25272b"
+      },
+      {
+        "id": "more-storage",
+        "label": "2 TB SSD",
+        "price": 1649,
+        "stock": 4,
+        "color": "#25272b",
+        "specs": {
+          "Storage": "2 TB SSD"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aural-wired",
+    "name": "Classic Wired Headphones",
+    "brand": "Aural",
+    "category": "Audio",
+    "price": 59,
+    "originalPrice": 79,
+    "rating": 4.3,
+    "reviewCount": 172,
+    "image": "/products/headphones-desk.jpg",
+    "color": "#262421",
+    "stock": 29,
+    "specs": {
+      "Connection": "3.5 mm wired",
+      "Driver": "40 mm drivers",
+      "Design": "Foldable over-ear",
+      "Weight": "220 g"
+    },
+    "description": "Plug in and settle in. A reliable pair of headphones with no charging, no pairing, and nothing between you and your next favourite album.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/headphones-desk.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/headphones-desk.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/headphones-desk.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 59,
+        "stock": 29,
+        "color": "#262421"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 69,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  },
+  {
+    "id": "moment-film",
+    "name": "Retro Mirrorless Camera",
+    "brand": "Moment",
+    "category": "Cameras",
+    "price": 249,
+    "originalPrice": 299,
+    "rating": 4.5,
+    "reviewCount": 33,
+    "image": "/products/camera-vintage.jpg",
+    "color": "#454343",
+    "stock": 0,
+    "specs": {
+      "Sensor": "24 MP digital sensor",
+      "Lens": "35 mm lens",
+      "Focus": "Auto + manual focus",
+      "Weight": "520 g"
+    },
+    "description": "Classic controls, a textured grip, and a compact digital body. A camera that brings a little character to everyday photography.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/camera-vintage.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/camera-vintage.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/camera-vintage.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "camera",
+        "label": "Camera only",
+        "price": 249,
+        "stock": 0,
+        "color": "#454343"
+      },
+      {
+        "id": "creator-kit",
+        "label": "Camera + travel kit",
+        "price": 314,
+        "stock": 0,
+        "color": "#454343",
+        "specs": {
+          "Included": "Camera, spare battery, travel pouch"
+        }
+      }
+    ]
+  },
+  {
+    "id": "key-phone",
+    "name": "Everyday Smartphone",
+    "brand": "Key",
+    "category": "Accessories",
+    "price": 399,
+    "originalPrice": 449,
+    "rating": 4.2,
+    "reviewCount": 118,
+    "image": "/products/phone.jpg",
+    "color": "#26282c",
+    "stock": 20,
+    "specs": {
+      "Display": "6.1-inch OLED",
+      "Storage": "128 GB storage",
+      "Camera": "48 MP camera",
+      "Battery": "4,000 mAh"
+    },
+    "description": "The essentials, thoughtfully put together. A bright display, dependable camera, and comfortable size make this a simple choice for everyday life.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/phone.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/phone.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/phone.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "128-gb",
+        "label": "128 GB storage",
+        "price": 399,
+        "stock": 20,
+        "color": "#26282c"
+      },
+      {
+        "id": "256-gb",
+        "label": "256 GB storage",
+        "price": 479,
+        "stock": 6,
+        "color": "#26282c",
+        "specs": {
+          "Storage": "256 GB storage"
+        }
+      }
+    ]
+  },
+  {
+    "id": "forma-essential",
+    "name": "Essential 14 Laptop",
+    "brand": "Forma",
+    "category": "Laptops",
+    "price": 599,
+    "originalPrice": 699,
+    "rating": 4.3,
+    "reviewCount": 92,
+    "image": "/products/laptop-open.jpg",
+    "color": "#38383b",
+    "badge": "Great value",
+    "stock": 26,
+    "specs": {
+      "Display": "14-inch display",
+      "Memory": "8 GB RAM",
+      "Storage": "256 GB SSD",
+      "Battery": "Up to 9 hours"
+    },
+    "description": "A fresh start for your everyday tasks. From studying to streaming, the Essential keeps the things you need close and the setup simple.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/laptop-open.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/laptop-open.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/laptop-open.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "base-storage",
+        "label": "256 GB SSD",
+        "price": 599,
+        "stock": 26,
+        "color": "#38383b"
+      },
+      {
+        "id": "more-storage",
+        "label": "1 TB SSD",
+        "price": 749,
+        "stock": 4,
+        "color": "#38383b",
+        "specs": {
+          "Storage": "1 TB SSD"
+        }
+      }
+    ]
+  },
+  {
+    "id": "aural-mini",
+    "name": "Mini Wireless Earbuds",
+    "brand": "Aural",
+    "category": "Audio",
+    "price": 49,
+    "originalPrice": 69,
+    "rating": 4.1,
+    "reviewCount": 84,
+    "image": "/products/earbuds.jpg",
+    "color": "#f1f1ef",
+    "badge": "New arrival",
+    "stock": 35,
+    "specs": {
+      "Battery": "18 hours with case",
+      "Connection": "Bluetooth 5.2",
+      "Water resistance": "IPX4 rated",
+      "Weight": "4 g per earbud"
+    },
+    "description": "A tiny companion for everyday listening. A lightweight fit and compact charging case make these an easy addition to your pocket.",
+    "source": "curio",
+    "gallery": [
+      {
+        "src": "/products/earbuds.jpg",
+        "label": "Full view",
+        "scale": 1,
+        "position": "center"
+      },
+      {
+        "src": "/products/earbuds.jpg",
+        "label": "Detail crop",
+        "scale": 1.4,
+        "position": "center 42%"
+      },
+      {
+        "src": "/products/earbuds.jpg",
+        "label": "Close-up crop",
+        "scale": 1.9,
+        "position": "center 58%"
+      }
+    ],
+    "variants": [
+      {
+        "id": "original",
+        "label": "Original finish",
+        "price": 49,
+        "stock": 35,
+        "color": "#f1f1ef"
+      },
+      {
+        "id": "sand",
+        "label": "Sand finish",
+        "price": 59,
+        "stock": 8,
+        "color": "#d6c8ac",
+        "specs": {
+          "Finish": "Sand"
+        }
+      }
+    ]
+  }
+]

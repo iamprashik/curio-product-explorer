@@ -1,0 +1,74 @@
+[
+  {
+    "asset": "/products/headphones-yellow.jpg",
+    "source": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/headphones-dark.jpg",
+    "source": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/headphones-desk.jpg",
+    "source": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/earbuds.jpg",
+    "source": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/earbuds-white.jpg",
+    "source": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/laptop-silver.jpg",
+    "source": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/laptop-work.jpg",
+    "source": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/laptop-dark.jpg",
+    "source": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/laptop-open.jpg",
+    "source": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/watch-minimal.jpg",
+    "source": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/watch-smart.jpg",
+    "source": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/camera-black.jpg",
+    "source": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/camera-travel.jpg",
+    "source": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/camera-vintage.jpg",
+    "source": "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/speaker.jpg",
+    "source": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/keyboard.jpg",
+    "source": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/mouse.jpg",
+    "source": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=720&q=85"
+  },
+  {
+    "asset": "/products/phone.jpg",
+    "source": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=720&q=85"
+  }
+]
